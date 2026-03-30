@@ -7,11 +7,11 @@
 ## 📌 Topics Covered
 
 ## 🌳 Trees
-Create Binary Tree (Recursive)
-Tree Traversals:
-Inorder
-Preorder
-Postorder
+`Create Binary Tree (Recursive)`
+`Tree Traversals:`
+`Inorder`
+`Preorder`
+`Postorder
 Level Order (BFS)
 Count total nodes
 Find height of tree
@@ -20,51 +20,51 @@ Binary Search Tree (BST):
 Create BST
 Insert in BST
 Delete in BST
-Search in BST
+Search in BST`
 
 ## 🔁 Recursion
-Factorial using recursion
+`Factorial using recursion
 Fibonacci using recursion
 Sum of first N numbers
 Sum of array elements
 Reverse a string using recursion
 Tower of Hanoi
-GCD using recursion
+GCD using recursion`
 
 ## ⚡ Advanced Sorting
-Merge Sort
-Quick Sort
+`Merge Sort
+Quick Sort`
 
 ## 🔐 Hashing
-Hash table (basic implementation)
+`Hash table (basic implementation)
 Insert element
 Search element
 Delete element
-Frequency counting
+Frequency counting`
 
 ## 🔤 Strings
-Check palindrome
+`Check palindrome
 Reverse string
 Count vowels, consonants, spaces
 Compare two strings (without strcmp)
 Check anagram
-Remove duplicates
+Remove duplicates`
 
 ## 👉 Two Pointer / Sliding Window
-Find pair with given sum
+`Find pair with given sum
 Remove duplicates from sorted array
 Move all zeros to end
 Maximum sum subarray
-Sliding window technique
+Sliding window technique`
 
 ## 🌐 Graphs (Basics)
-Graph representation using adjacency matrix
+`Graph representation using adjacency matrix
 Graph representation using adjacency list
 Breadth First Search (BFS)
-Depth First Search (DFS)
+Depth First Search (DFS)`
 
 ## 📂 Folder Structure
-DSA-Phase2-C/
+`DSA-Phase2-C/
 │
 ├── Trees/
 ├── Recursion/
@@ -74,30 +74,30 @@ DSA-Phase2-C/
 ├── TwoPointer/
 ├── Graphs/
 │
-└── README.md
+└── README.md`
 
 ## 🎯 Objective
-Strengthen problem-solving skills
+`Strengthen problem-solving skills
 Understand intermediate DSA concepts
 Prepare for coding interviews and competitive programming
-Build a strong GitHub portfolio
+Build a strong GitHub portfolio`
 
 ## 🛠️ Tools Used
-Language: C
+`Language: C
 Editor: VS Code
-Compiler: GCC
+Compiler: GCC`
 
 ### 📈 Progress
-✔ Phase 1 Completed (Basics)
-🚧 Phase 2 In Progress
+`✔ Phase 1 Completed (Basics)
+🚧 Phase 2 In Progress`
 
 ## 🚀 Future Plans
-Solve problems on platforms like LeetCode
+`Solve problems on platforms like LeetCode
 Start Advanced DSA (Phase 3)
-Learn Data Structures in depth with real-world applications
+Learn Data Structures in depth with real-world applications`
 
 ## 👨‍💻 Author
-Kazi Mustafijur Rahaman
+`Kazi Mustafijur Rahaman`
 
 ## ⭐ Support
-If you find this repository helpful, consider giving it a ⭐ to support my work
+`If you find this repository helpful, consider giving it a ⭐ to support my work`
